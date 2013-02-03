@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Finally my own blog!?]]></title>
   <link href="http://ricardobcl.github.com/atom.xml" rel="self"/>
   <link href="http://ricardobcl.github.com/"/>
-  <updated>2013-02-02T19:27:57+00:00</updated>
+  <updated>2013-02-03T01:56:34+00:00</updated>
   <id>http://ricardobcl.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ricardo Tomé Gonçalves]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First]]></title>
+    <link href="http://ricardobcl.github.com/blog/2013/02/02/first/"/>
+    <updated>2013-02-02T23:17:00+00:00</updated>
+    <id>http://ricardobcl.github.com/blog/2013/02/02/first</id>
+    <content type="html"><![CDATA[<p>My firt post to see if everything is all right.</p>
+]]></content>
+  </entry>
   
 </feed>
